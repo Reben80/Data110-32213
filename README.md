@@ -1,5 +1,8 @@
 # Data Visualization Class - Weekly Breakdown
 
+## [Course Syllabus](documents/Microsoft Word - Data_110_syllabus_sp24_M_32213.docx.pdf) 
+
+
 This class is structured into 15 weeks, each with its own focus and set of materials. Below is an overview of the weekly structure, with placeholders for the corresponding Markdown files that will be created.
 
 ## [Week 1](week1.md) - Introduction to Data Visualization
