@@ -2,9 +2,9 @@
 
 This class is structured into 15 weeks, each with its own focus and set of materials. Below is an overview of the weekly structure, with placeholders for the corresponding Markdown files that will be created.
 
-## [Week 1(week1.md) - Introduction to Data Visualization
+## [Week 1](week1.md) - Introduction to Data Visualization
 
-- ** (week1.md**: Overview, expectations, and introduction to key concepts of data visualization.
+- ** week1.md**: Overview, expectations, and introduction to key concepts of data visualization.
 
 ## Week 2 - The Visual Display of Quantitative Information
 
