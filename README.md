@@ -1,6 +1,7 @@
 # Data Visualization Class - Weekly Breakdown
 
-## [Course Syllabus](documents/Microsoft Word - Data_110_syllabus_sp24_M_32213.docx.pdf)
+## [Course Syllabus](documents/Data_110_syllabus_sp24_M_32213.pdf)
+
 
 
 
