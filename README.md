@@ -1,32 +1,51 @@
 # Data Visualization Class - Weekly Breakdown
 
-## [Course Syllabus](documents/Data_110_syllabus_sp24_M_32213.pdf)
+Welcome to the Data Visualization class. This syllabus outlines the structure and content for our 15-week journey together. Each week focuses on a distinct aspect of data visualization, providing a comprehensive understanding of the field.
 
+[View the Course Syllabus](documents/Data_110_syllabus_sp24_M_32213.pdf)
 
+---
 
+## Weekly Overview
 
-This class is structured into 15 weeks, each with its own focus and set of materials. Below is an overview of the weekly structure, with placeholders for the corresponding Markdown files that will be created.
+### [Week 1: Introduction to Data Visualization and Effective Communication](week1.md)
+- **Summary**: Introduction to the course and syllabus. Focus on effective communication and documentation. Learn to collect and visualize data using Google Sheets..
 
-## [Week 1](week1.md) - Introduction to Data Visualization
+### [Week 2: Data Visualization with Google Sheets and Introduction to Google Colab and Python Basics](week2.md)
+- **Summary**: 
+  - **Google Sheets**: Google Sheets for organizing and visualizing data efficiently.
+  - **Google Colab and Python Basics**: Get acquainted with Google Colab as a powerful platform for executing Python code. Basic Python.
+  - 
+### Week 3: Data Import, Manipulation, and Visualization in Google Colab
+- **Project**: A deep dive into the Happiness Dataset.
 
-- ** week1.md**: Overview, expectations, and introduction to key concepts of data visualization.
+### Week 4: Optimizing Your Data Science Workflow
+- **Tools**: Integrating Anaconda, Jupyter, and Altair for enhanced Python analysis on the Movies Dataset.
 
-## Week 2 - The Visual Display of Quantitative Information
+### Week 5: Fundamentals of Pandas with the Movies Dataset
 
-- **week2.md**: Dive into how to effectively display quantitative data.
+### Week 6: Data Ethics
+- **Topic**: Responsible practices and principles in data analysis and visualization.
 
-## Week 3 - Chart Types and When to Use Them
+### Week 7: Project 1
 
-- **week3.md**: Explore various chart types and their appropriate applications.
+### Week 8: Exploratory Analysis and Visualization
+- **Skills**: Enhancing dataframe manipulation skills for deeper insights. Introduction to Altair for creating insightful data visualizations.
 
-## Week 4 - Design Principles for Data Visualization
+### Week 9: Data Cleaning and Integration
+- **Techniques**: Dive into data cleaning techniques for precise and reliable data. Explore the integration of external data through Web APIs.
 
-- **week4.md**: Learn about design principles that make visuals both appealing and informative.
+### Week 10: Transforming Data
+- **Analysis**: Data transformation with Pandas, emphasizing pivoting techniques. Analyze and present data from the CIA Factbook.
 
-... [Continue with the remaining weeks]
+### Week 11: Tableau
 
-## Week 15 - Final Projects and Course Wrap-up
+### Week 12: Clustering and Dimension Reduction for Visual Storytelling
+- **Methods**: Explore clustering techniques to unravel patterns and narratives in data. Begin understanding and implementing dimension reduction for more concise and impactful visualizations.
 
-- **week15.md**: Conclude with final projects presentations and a course summary.
+### Week 13: Techniques for Textual and Numerical Data
+- **Project**: Begin working on final projects.
 
-Each week's Markdown file will contain detailed notes, assignments, and resources relevant to that week's topic. Be sure to check the corresponding `.md` file for the week to
+---
+
+Each week's Markdown file will contain detailed notes, assignments, and resources relevant to that week's topic. Be sure to check the corresponding `.md` file for comprehensive information and weekly tasks.
