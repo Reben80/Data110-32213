@@ -2,7 +2,8 @@
 
 Welcome to the Data Visualization class. This syllabus outlines the structure and content for our 15-week journey together. Each week focuses on a distinct aspect of data visualization, providing a comprehensive understanding of the field.
 
-[View the Course Syllabus](documents/Microsoft Word - Data_110_syllabus_sp24_M_32213.docx.pdf)
+[View the Course Syllabus](documents/Data_110_Syllabus_SP24.pdf)
+
 
 ---
 
