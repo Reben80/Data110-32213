@@ -5,6 +5,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 [View the Course Syllabus](documents/Microsoft Word - Data_110_syllabus_sp24_M_32213.docx.pdf)
 
 
+
 ---
 
 ## Weekly Overview
