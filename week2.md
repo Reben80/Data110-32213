@@ -108,6 +108,14 @@ This week we delved into the powerful capabilities of Google Colab for data anal
    ```
 
 
-### Week 2 Assinemnt:
-1. Complete the task in the [Understanding Anscombe's Quartet](/Understanding Anscombe's Quartet.ipynb)
+### Week 2 Assignment
+
+1. **Understanding Anscombe's Quartet**:
+   - Complete the tasks in the Jupyter Notebook. Ensure the notebook is compatible with Google Colab for a seamless experience.
+   - [Understanding Anscombe's Quartet Notebook](Understanding_Anscombe's_Quartet.ipynb)
+
+2. **Exploring Temperature Trends in Death Valley**:
+   - Open and run all the code cells in the Jupyter Notebook. Verify that it runs smoothly on Google Colab.
+   - [Exploring Temperature Trends in Death Valley Notebook](W2_Matplot_plot.ipynb)
+
 
