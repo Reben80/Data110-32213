@@ -1,8 +1,8 @@
-## Week Two Recap: Diving into the World of Data Visualization
+### Week Two Recap: Diving into the World of Data Visualization
 
 ---
 
-### 1. Inspiration Behind Some Data Visualization Graph
+## 1. Inspiration Behind Some Data Visualization Graph
 The graph design of our dataset is inspired by the iconic visual from Joy Division's 1979 album, "Unknown Pleasures." This design has influenced a wide array of designers and data visualization enthusiasts.
 
 ![Joy Plot Inspired Design](media/joy-plot%201.jpg)
@@ -12,14 +12,14 @@ The graph design of our dataset is inspired by the iconic visual from Joy Divisi
 
 ---
 
-### 2. A Journey Through Data Visualization History
+## 2. A Journey Through Data Visualization History
 A good place to learn about History of Data Visualizaion is the articale  "A Brief History of Data Visualization" by Michael Friendly to understand the evolution and milestones in visualizing data.
 
 [A Brief History of Data Visualization](A_Brief_History_of_Data_Visualization-2.pdf)
 
 ---
 
-### 2. Important of Data Visualizaion
+## 2. Important of Data Visualizaion
 Anscombe's quartet consists of four datasets that have the same statistical properties but different distributions, highlighting the importance of visualizing data.
 
 ![Anscombe's Quartet](media/2560px-Anscombe's_quartet_3.svg.png)
@@ -28,14 +28,14 @@ Anscombe's quartet consists of four datasets that have the same statistical prop
 
 ---
 
-### 2.1 Further Exploration in Data Visualization
+# 2.1 Further Exploration in Data Visualization
 We watched "Same Stats, Different Graphs - CHI 2017," emphasizing the significance of visual representation in data.
 
 [Watch the CHI 2017 Video](https://www.youtube.com/embed/DbJyPELmhJc?feature=oembed)
 
 ---
 
-### 2.2 Additional Resources for Insight
+# 2.2 Additional Resources for Insight
  We examined resources that provide insights into data correlations and their visual representations.
 
 [What data patterns can lie behind a correlation coefficient?](what-correlations-look-like.pdf)
@@ -43,17 +43,17 @@ We watched "Same Stats, Different Graphs - CHI 2017," emphasizing the significan
 
 ---
 
-### A Powerful Visualization Example
+## A Powerful Visualization Example
 We reviewed a New York Times article as an excellent example of meaningful data visualization and storytelling. 
 
 [Read the NY Times Article on ‘Stop-and-Frisk’](https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html?_r=0)
 
 ---
 
-### Exploratory vs. Explanatory Visualization: A Comparative Study
+## Exploratory vs. Explanatory Visualization: A Comparative Study
 We compared Exploratory Visualization (used for analyzing and understanding data) with Explanatory Visualization (used for communicating findings or narrating a story).
 
-#### Examples:
+# Examples:
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=19992.255291973044&y=21168.629572051443&z=6703.234703310886&v=2) (Exploratory)
 - [The Fallen of World War II](http://www.fallen.io/ww2/) (Explanatory)
 - [538: Various Sports Analyses](http://fivethirtyeight.com/) (Explanatory)
@@ -63,7 +63,7 @@ We compared Exploratory Visualization (used for analyzing and understanding data
 
 ---
 
-## Python Lab 1 :Google Colab Introduction and Data Visualization
+### Python Lab 1 :Google Colab Introduction and Data Visualization
 
 
 
@@ -117,5 +117,14 @@ This week we delved into the powerful capabilities of Google Colab for data anal
 2. **Exploring Temperature Trends in Death Valley**:
    - Open and run all the code cells in the Jupyter Notebook. Verify that it runs smoothly on Google Colab.
    - [Exploring Temperature Trends in Death Valley Notebook](W2_Matplot_plot.ipynb)
+  
+### Further Reading
+
+1. **10 Minutes to Pandas**: A quick, comprehensive guide to get started with the powerful Pandas library for data analysis.
+   - [10 Minutes to Pandas Guide](https://pandas.pydata.org/docs/user_guide/10min.html)
+
+2. **Python Review**: Review key Python concepts and techniques, ideal for refreshing your knowledge or getting up to speed.
+   - [Python Review Notebook](lab01supp-python_review.ipynb)
+
 
 
