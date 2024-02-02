@@ -63,10 +63,9 @@ We compared Exploratory Visualization (used for analyzing and understanding data
 
 ---
 
-## Python Lab 1
+## Python Lab 1 :Google Colab Introduction and Data Visualization
 
 
-# Google Colab Introduction and Data Visualization
 
 This week we delved into the powerful capabilities of Google Colab for data analysis and visualization. Here's a breakdown of our learning journey:
 
