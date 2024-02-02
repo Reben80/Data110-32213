@@ -2,7 +2,7 @@
 
 ---
 
-### Inspiration Behind Some Data Visualization Graph
+### 1. Inspiration Behind Some Data Visualization Graph
 The graph design of our dataset is inspired by the iconic visual from Joy Division's 1979 album, "Unknown Pleasures." This design has influenced a wide array of designers and data visualization enthusiasts.
 
 ![Joy Plot Inspired Design](media/joy-plot%201.jpg)
@@ -12,38 +12,39 @@ The graph design of our dataset is inspired by the iconic visual from Joy Divisi
 
 ---
 
-### A Journey Through Data Visualization History
-We explored "A Brief History of Data Visualization" by Michael Friendly to understand the evolution and milestones in visualizing data.
+### 2. A Journey Through Data Visualization History
+A good place to learn about History of Data Visualizaion is the articale  "A Brief History of Data Visualization" by Michael Friendly to understand the evolution and milestones in visualizing data.
 
-![A Brief History of Data Visualization](A_Brief_History_of_Data_Visualization-2.pdf)
+[A Brief History of Data Visualization](A_Brief_History_of_Data_Visualization-2.pdf)
 
 ---
 
-### The Importance of Data Visualization: Anscombe's Quartet
+### 2. Important of Data Visualizaion
 Anscombe's quartet consists of four datasets that have the same statistical properties but different distributions, highlighting the importance of visualizing data.
 
-![Anscombe's Quartet](2560px-Anscombe's_quartet_3.svg.png)
+![Anscombe's Quartet](media/2560px-Anscombe's_quartet_3.svg.png)
 
 [Learn More About Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
 ---
 
-### Further Exploration in Data Visualization
+### 2.1 Further Exploration in Data Visualization
 We watched "Same Stats, Different Graphs - CHI 2017," emphasizing the significance of visual representation in data.
 
 [Watch the CHI 2017 Video](https://www.youtube.com/embed/DbJyPELmhJc?feature=oembed)
 
 ---
 
-### Additional Resources for Insight
-We examined resources that provide insights into data correlations and their visual representations.
+### 2.2 Additional Resources for Insight
+ We examined resources that provide insights into data correlations and their visual representations.
 
-![Understanding Correlations](what-correlations-look-like.pdf)
+[What data patterns can lie behind a correlation coefficient?](what-correlations-look-like.pdf)
+
 
 ---
 
 ### A Powerful Visualization Example
-We reviewed a New York Times article as an excellent example of meaningful data visualization.
+We reviewed a New York Times article as an excellent example of meaningful data visualization and storytelling. 
 
 [Read the NY Times Article on ‘Stop-and-Frisk’](https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html?_r=0)
 
