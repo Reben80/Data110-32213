@@ -2,10 +2,11 @@
 
 ---
 
-### Inspiration Behind Our Dataset's Graph Design
+### Inspiration Behind Some Data Visualization Graph
 The graph design of our dataset is inspired by the iconic visual from Joy Division's 1979 album, "Unknown Pleasures." This design has influenced a wide array of designers and data visualization enthusiasts.
 
-![Joy Plot Inspired Design](media/joy-plot 1.jpg)
+![Joy Plot Inspired Design](media/joy-plot%201.jpg)
+
 
 [Watch the Video on Joy Division - Unknown Pleasures](https://www.youtube.com/embed/oo7lt0lLOvg?start=436&amp;feature=oembed)
 
