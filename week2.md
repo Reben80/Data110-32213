@@ -107,6 +107,7 @@ This week we delved into the powerful capabilities of Google Colab for data anal
    plt.show()
    ```
 
-This week's content has set the foundation for more intricate data analysis and visualization projects. Stay tuned for more learning and exploration!
 
+### Week 2 Assinemnt:
+1. Complete the task in the [Understanding Anscombe's Quartet](/Understanding Anscombe's Quartet.ipynb)
 
