@@ -63,5 +63,51 @@ We compared Exploratory Visualization (used for analyzing and understanding data
 
 ---
 
-This concludes our insightful second week, where we deepened our understanding of the impactful world of data visualization. Looking forward to next week's explorations!
+## Python Lab 1
+
+
+# Google Colab Introduction and Data Visualization
+
+This week we delved into the powerful capabilities of Google Colab for data analysis and visualization. Here's a breakdown of our learning journey:
+
+## 1. Introduction to Google Colab
+   - Explored the versatile environment of Google Colab, a platform that enables running Python code in the browser.
+
+## 2. Package Importation in Google Colab
+   - Mastered the process of importing essential data analysis packages such as `matplotlib` for visualization and `pandas` for data manipulation.
+   ```python
+   import matplotlib.pyplot as plt
+   import pandas as pd
+   ```
+
+## 3. Plotting Basic Graphs
+   - Learned to create simple line graphs using `plt.plot` from the `matplotlib` library with two lists of numbers of the same length.
+   ```python
+   plt.plot(list1, list2)
+   plt.show()
+   ```
+
+## 4. Graph Aesthetics Enhancement
+   - Enhanced the visual appeal of graphs by customizing aesthetic aspects such as color, style, width, and grid.
+   ```python
+   plt.plot(list1, list2, color='blue', linestyle='--', linewidth=2)
+   plt.grid(True)
+   plt.show()
+   ```
+
+## 5. Data Reading with Pandas
+   - Utilized `pandas` to efficiently read external data from CSV files, an essential skill for data analysis.
+   ```python
+   data = pd.read_csv('your_data.csv')
+   ```
+
+## 6. Creating Scatter Plots
+   - Generated insightful scatter plots using data from the `happiness_2017.csv` file, a practical application of data visualization.
+   ```python
+   plt.scatter(data['column1'], data['column2'])
+   plt.show()
+   ```
+
+This week's content has set the foundation for more intricate data analysis and visualization projects. Stay tuned for more learning and exploration!
+
 
