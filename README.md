@@ -18,7 +18,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
   - **Google Sheets**: Google Sheets for organizing and visualizing data efficiently.
   - **Google Colab and Python Basics**: Get acquainted with Google Colab as a powerful platform for executing Python code. Basic Python.
   - 
-### [Week 3: Data Import, Manipulation, and Visualization in Google Colab](week3.md)
+### [Week 3: Data Import, Manipulation, and Visualization in Google Colab](Week3.md)
 - **Project**: A deep dive into the Happiness Dataset.
 
 ### Week 4: Optimizing Your Data Science Workflow
