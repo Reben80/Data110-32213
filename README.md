@@ -21,7 +21,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ### [Week 3: Data Import, Manipulation, and Visualization in Google Colab](Week3.md)
 - **Project**: A deep dive into the Happiness Dataset.
 
-### Week 4: Optimizing Your Data Science Workflow
+### [Week 4: Optimizing Your Data Science Workflow](Week4.md)
 - **Tools**: Integrating Anaconda, Jupyter for enhanced Python analysis on the Movies Dataset.
 
 ### Week 5: Fundamentals of Pandas with the Movies Dataset
