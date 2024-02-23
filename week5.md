@@ -23,9 +23,9 @@ This video provides valuable insights into density curves and their properties, 
 ### Overview
 This week, your assignment involves deep diving into the Titanic dataset. To ensure you have all the necessary information and examples to excel in this task, please consult the following resources:
 
-- **Homework Details**: For a comprehensive overview of the assignment, please review `[Week5_HW_Titanic.md](Week5_HW_Titanic.md)`. This document contains all the instructions and requirements for your submission.
+- **Homework Details**: For a comprehensive overview of the assignment, please review [Week5_HW_Titanic.md](Week5_HW_Titanic.md). This document contains all the instructions and requirements for your submission.
 
-- **Code Examples and Guidance**: To aid you in completing the assignment, refer to `Week5_Code_Titanic.ipynb`. This Jupyter notebook is packed with relevant code snippets and patterns that align with this week's learning objectives. It will be particularly useful for applying the concepts discussed in class and in your readings.
+- **Code Examples and Guidance**: To aid you in completing the assignment, refer to [Week5_Code_Titanic.ipynb](Week5_Code_Titanic.ipynb). This Jupyter notebook is packed with relevant code snippets and patterns that align with this week's learning objectives. It will be particularly useful for applying the concepts discussed in class and in your readings.
 
 ### Objectives
 The main goal of this assignment is to apply your skills in data manipulation and analysis using Python, with a focus on real-world datasets. By exploring the Titanic dataset, you'll gain insights into data preprocessing, visualization, and basic statistical analysis.
