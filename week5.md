@@ -1,4 +1,4 @@
-In week 5, we explored Chapter 7: Visualizing Distributions from the book Fundamentals of Data Visualization, focusing on techniques for visualizing distributions. Our practical application involved analyzing the Titanic Dataset.
+In week 5, we explored Chapter 7: Visualizing Distributions from the book Fundamentals of Data Visualization, focusing on techniques for visualizing distributions. Our practical application involved analyzing the [Titanic Dataset](https://raw.githubusercontent.com/Reben80/Data110-32213/main/dataset/titanic.csv).
 
 This dataset is readily available on GitHub. We specifically investigated the distribution of ages based on gender, examining both the overall distribution and the distributions among male and female passengers.
 
