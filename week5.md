@@ -10,7 +10,7 @@ This video provides valuable insights into density curves and their properties, 
 
 ### Week 6 Reading Assignment
 
-| Week | Chapter | Topics Covered |
+| Week | Chapter | Topics  |
 |------|---------|----------------|
 | 6 | Chapter 2: Choosing an Effective Visual | This chapter focuses on selecting the most appropriate visualization method to effectively communicate your data insights. |
 | 6 | Chapter 9: Visualizing many distributions at once | This chapter explores techniques for visualizing multiple distributions simultaneously, enabling deeper insights into complex datasets. |
