@@ -1,14 +1,14 @@
 In week 5, we explored Chapter 7: Visualizing Distributions from the book Fundamentals of Data Visualization, focusing on techniques for visualizing distributions. Our practical application involved analyzing the Titanic Dataset.
 
-This dataset is readily available on GitHub, but for our analysis, we utilized a version of it conveniently accessible through the Seaborn library. We specifically investigated the distribution of ages based on gender, examining both the overall distribution and the distributions among male and female passengers.
+This dataset is readily available on GitHub. We specifically investigated the distribution of ages based on gender, examining both the overall distribution and the distributions among male and female passengers.
 
-Throughout our analysis, we employed two primary visualization techniques: histograms and Kernel Density Estimates (KDE). If you'd like to delve deeper into the concept of KDE, I recommend watching the following YouTube video:
+Throughout our analysis, we employed two primary visualization techniques: histograms and Kernel Density Estimates (KDE). If you'd like to delve deeper into the concept of KDE, I recommend watching the following YouTube video to learn more about Density Curve and its properties:
 
 [**Density Curves and their Properties**](https://www.youtube.com/embed/Txlm4ORI4Gs)
 
 This video provides valuable insights into density curves and their properties, offering a deeper understanding of the KDE technique we utilized in our analysis.
 
-### Weekly Topics Covered
+### Week 6 Reading Assignment
 
 | Week | Chapter | Topics Covered |
 |------|---------|----------------|
