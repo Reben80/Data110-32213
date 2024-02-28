@@ -18,13 +18,13 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
   - **Google Sheets**: Google Sheets for organizing and visualizing data efficiently.
   - **Google Colab and Python Basics**: Get acquainted with Google Colab as a powerful platform for executing Python code. Basic Python.
   - 
-### Week 3: Data Import, Manipulation, and Visualization in Google Colab
+### [Week 3: Data Import, Manipulation, and Visualization in Google Colab](Week3.md)
 - **Project**: A deep dive into the Happiness Dataset.
 
-### Week 4: Optimizing Your Data Science Workflow
-- **Tools**: Integrating Anaconda, Jupyter, and Altair for enhanced Python analysis on the Movies Dataset.
+### [Week 4: Optimizing Your Data Science Workflow](Week4.md)
+- **Tools**: Integrating Anaconda, Jupyter for enhanced Python analysis on the Movies Dataset.
 
-### Week 5: Fundamentals of Pandas with the Movies Dataset
+### [Week 5: Visualizaion Distirbution: Titanic Dataset](week5.md)
 
 ### Week 6: Data Ethics
 - **Topic**: Responsible practices and principles in data analysis and visualization.
