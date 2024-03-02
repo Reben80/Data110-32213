@@ -49,3 +49,13 @@ Druing week 6 in class, we'll tackle the challenge of visualizing multiple distr
 <img src="media/what-is-a-boxplot.png" height="300">
 
 
+
+
+### Week 7 Reading Assignment
+
+| Week | Chapter | Topics  |
+|------|---------|----------------|
+| 7 | ***Chapter  4 Color scales*** | Chapter 6 delves into the strategic use of color in data visualizations, covering three core applications: distinguishing data groups, representing data values, and highlighting key information, each requiring distinct color choices and applications. |
+| 7 |  ***Runestone Chapter 4***: Python and Jupyter Notebooks | Review the fundamental constructs of programming in Python. Learn to use a type of programming notebook that mixes text and code.|
+
+
