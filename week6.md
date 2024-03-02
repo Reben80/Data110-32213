@@ -35,4 +35,4 @@ The book delves into the intriguing concept of shaping perception through the st
 #### What is Box Plot?
 
 
-![Three](what-is-a-boxplot.png)
+![Three](media/what-is-a-boxplot.png)
