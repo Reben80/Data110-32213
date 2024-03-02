@@ -46,6 +46,6 @@ Druing week 6 in class, we'll tackle the challenge of visualizing multiple distr
 
 
 #### What is Box Plot?
-<img src="media/what-is-a-boxplot.png" height="700">
+<img src="media/what-is-a-boxplot.png" height="300">
 
 
