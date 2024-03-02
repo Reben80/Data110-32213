@@ -24,9 +24,9 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ### [Week 4: Optimizing Your Data Science Workflow](Week4.md)
 - **Tools**: Integrating Anaconda, Jupyter for enhanced Python analysis on the Movies Dataset.
 
-### [Week 5: Visualizaion Distirbution: Titanic Dataset](week5.md)
+### [Week 5: Visualizaion Distirbution I: Titanic Dataset](week5.md)
 
-### Week 6: Data Ethics
+### [Week 6: Data Ethics: Visualization Distirbution II: lincoln temprature Dataset](week6.md)
 - **Topic**: Responsible practices and principles in data analysis and visualization.
 
 ### Week 7: Project 1
