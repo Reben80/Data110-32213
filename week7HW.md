@@ -22,7 +22,7 @@ The dataset you will be using is the `penguins` dataset, which contains various 
 4. **Data Grouping and Aggregation**:
    - Group the dataset by `species` and `island`, and calculate the average `flipper_length_mm` for each group. Sort the results in descending order of flipper length.
 
-5. **Advanced Visualization** (Replacing Task 5):
+5. **Advanced Visualization**:
    - Create a histogram to visualize the distribution of penguin body masses. Use different colors to differentiate between the species. Ensure your histogram is clearly labeled with a title, x-axis and y-axis labels, and a legend.
 
 6. **Utilizing Loops for Visualization**:
