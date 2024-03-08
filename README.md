@@ -29,7 +29,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ### [Week 6: Data Ethics: Visualization Distirbution II: lincoln temprature Dataset](week6.md)
 - **Topic**: Responsible practices and principles in data analysis and visualization.
 
-### Week 7: [Data Maipulation: Pengiuns Dataset, Project 1](week7.md)
+### Week 7: [Data Maipulation: Pengiuns Dataset, Project 1](Week7.md)
 
 ### Week 8: Exploratory Analysis and Visualization
 - **Skills**: Enhancing dataframe manipulation skills for deeper insights. Introduction to Altair for creating insightful data visualizations.
