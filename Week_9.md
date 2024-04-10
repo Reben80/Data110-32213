@@ -22,6 +22,9 @@
 
 **Resources:**
 1. [Jupyter Notebook for Week 9](Week9_Visualizing_Proportions.ipynb)
-2. [Assignment for Week 9](Week9_HW.md) 
+2. [Assignment for Week 9](Week9_HW.md)
+3. [John Snow ](https://en.wikipedia.org/wiki/John_Snow)
+5. [Voroni Diagram](https://www.youtube.com/watch?v=GafRRl5XRPM)
+6. [Visualize Proportion](https://wilkelab.org/DSC385/slides/visualizing-proportions.html#6)
 
 This week focused on enhancing both technical and analytical skills in data visualization, pushing students to consider not just how to present data, but why certain presentations make data more understandable and impactful.
