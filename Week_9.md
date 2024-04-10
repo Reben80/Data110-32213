@@ -1,6 +1,6 @@
 ## Week 9 Overview: Visualizing Data Proportions
 
-- **Objective:** Dive into data visualization techniques using Python, focusing on:
+- **Objective:**  visualization techniques using Python, focusing on:
   - Creating pie and donut charts to showcase data proportions.
   - Exploring stacked bar graphs for cumulative data representation.
   - Introducing Voronoi diagrams for spatial data visualization.
