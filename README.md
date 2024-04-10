@@ -35,7 +35,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 - **Skills**: Enhancing dataframe manipulation skills for deeper insights. Introduction to Altair for creating insightful data visualizations.
 
 ### Week 9: [Visualization Proportio: Bundestag Dataset](Week9_Visualizing_Proportions.ipynb)
-- **Techniques**: 
+- **Techniques**: Pie Chart, Voronoi Diagram
 
 ### Week 10: Transforming Data
 - **Analysis**: Data transformation with Pandas, emphasizing pivoting techniques. Analyze and present data from the CIA Factbook.
