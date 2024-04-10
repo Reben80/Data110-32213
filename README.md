@@ -34,8 +34,8 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ### Week 8: Exploratory Analysis and Visualization
 - **Skills**: Enhancing dataframe manipulation skills for deeper insights. Introduction to Altair for creating insightful data visualizations.
 
-### Week 9: Data Cleaning and Integration
-- **Techniques**: Dive into data cleaning techniques for precise and reliable data. Explore the integration of external data through Web APIs.
+### Week 9: [Visualization Proportio: Bundestag Dataset](Week9_Visualizing_Proportions.ipynb)
+- **Techniques**: 
 
 ### Week 10: Transforming Data
 - **Analysis**: Data transformation with Pandas, emphasizing pivoting techniques. Analyze and present data from the CIA Factbook.
