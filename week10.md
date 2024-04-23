@@ -1,4 +1,4 @@
-# Weekly Summary: Visualizing Trends in Data
+# Weekly 10 Summary: Visualizing Trends in Data
 
 ## This Week's Focus
 This week, we honed our skills in visualizing trends within datasets using Python, focusing particularly on the [Blue Jays](https://wilkelab.org/DSC385/datasets/blue_jays.csv) and [Cars93 datasets](https://wilkelab.org/DSC385/datasets/cars93.csv). These datasets served as the basis for our code-driven exploration of various visualization techniques.
