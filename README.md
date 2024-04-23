@@ -37,7 +37,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ### Week 9: [Visualization Proportio: Bundestag Dataset](Week9_Visualizing_Proportions.ipynb)
 - **Techniques**: Pie Chart, Voronoi Diagram
 
-### Week 10: Transforming Data
+### Week 10: [Visualizing Trend: Linear Regression]
 - **Analysis**: Data transformation with Pandas, emphasizing pivoting techniques. Analyze and present data from the CIA Factbook.
 
 ### Week 11: Tableau
