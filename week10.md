@@ -9,6 +9,6 @@ This week, we honed our skills in visualizing trends within datasets using Pytho
 - **Trend Analysis**: Analyzed data trends by visualizing relationships between variables such as body mass and head length in Blue Jays, and price and fuel tank capacity in Cars93. Emphasized the application of linear models and regression lines to illustrate these relationships and deduce meaningful insights.
 
 ## Assignment
-To apply the visualization techniques learned, complete a project based on the trends observed in the Blue Jays and Cars93 datasets. This assignment focuses on utilizing trend visualization to interpret and analyze data effectively. Access the assignment [here](#).
+To apply the visualization techniques learned, complete a project based on the trends observed in the Blue Jays and Cars93 datasets. This assignment focuses on utilizing trend visualization to interpret and analyze data effectively. Access the assignment [Week10_HW](Week10_HW.md).
 
 Ensure to submit your completed Jupyter notebook via the link provided.
