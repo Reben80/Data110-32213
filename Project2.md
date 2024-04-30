@@ -1,4 +1,4 @@
-# Project 2: Data Visualization Mastery
+# Project 2: Data Visualization Final Project
 
 ## Introduction
 
