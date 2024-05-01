@@ -40,10 +40,12 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ### Week 10: [Visualizing Trend: Linear Regression](week10.md)
 - **Analysis**: Data transformation with Pandas, emphasizing pivoting techniques. Analyze and present data from the CIA Factbook.
 
-### Week 11: Tableau
-
-### Week 12: Clustering and Dimension Reduction for Visual Storytelling
+### Week 11: [Clustering and Dimension Reduction for Visual Storytelling](Week11_Clustring.ipynb)
 - **Methods**: Explore clustering techniques to unravel patterns and narratives in data. Begin understanding and implementing dimension reduction for more concise and impactful visualizations.
+- 
+### Week 12: Tableau
+
+
 
 ### Week 13: Techniques for Textual and Numerical Data
 - **Project**: Begin working on final projects.
