@@ -11,7 +11,7 @@ Welcome to the Data Visualization class. This syllabus outlines the structure an
 ## Weekly Overview
 
 ### [Week 1: Introduction to Data Visualization and Effective Communication](week1.md)
-- **Summary**: Introduction to the course and syllabus. Focus on effective communication and documentation. Learn to collect and visualize data using Google Sheets..
+- **Summary**: Introduction to the course and syllabus. Focus on effective communication and documentation. Learn to collect and visualize data using Python.
 
 ### [Week 2: Data Visualization with Google Sheets and Introduction to Google Colab and Python Basics](week2.md)
 - **Summary**: 
