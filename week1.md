@@ -7,10 +7,6 @@ Hello Everyone. Here is quick recap of Week 1 and then dive into the assignment 
   - We will be using  **MS Teams** for everyday communication. If you're not on there yet, let's fix that ASAP.
   - Drop me a quick message on MS Teams for anything urgent. For the big stuff, email is the way to go: rebin.muhammad@montgomerycollege.edu.
 
-- **Runestone Academy:**
-  - We've looked at  our core textbook over at Runestone Academy. Now, everyone should be there.
-  - Account issues? just send me a message.
-
 - **Media Time:**
   - Our YouTube playlist got two new additions:  [ "Why is Data Science Important?" ](https://www.youtube.com/watch?v=iO2I1gfEPgc) and  [ "The Beauty of Data Visualization."](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
 
@@ -36,10 +32,8 @@ Please complete the following tasks before our next class:
 
 | # | Source | Description | Link |
 |---|--------|-------------|------|
-| 1 | Runestone | Complete the assignment for Chapter 1. | [Runestone Chapter 1](https://runestone.academy/) |
-| 2 | Runestone | Read the assigned section in Chapter 2. | [Runestone Chapter 2](https://runestone.academy/) |
-| 3 | GitHub | Finish setting up your GitHub account and post your repositories' link in the Excel sheet in our MS Teams folder. | [GitHub](https://github.com/) |
-| 4 | Markdown | Complete the Markdown assignment. Make your GitHub page stand out with creative Markdown formatting. | Check the MS Teams channel folder for details. |
-| 5 | Fundamentals of Data Visualization by Claus O. Wilke | Read the introduction and Chapter 2: "Visualizing data: Mapping data onto aesthetics". Don't worry, they're short chapters! | [Data Visualization Book](https://clauswilke.com/dataviz/) |
+| 1 | GitHub | Finish setting up your GitHub account and post your repositories' link in the Excel sheet in our MS Teams folder. | [GitHub](https://github.com/) |
+| 2| Markdown | Complete the Markdown assignment. Make your GitHub page stand out with creative Markdown formatting. | Check the MS Teams channel folder for details. |
+| 3 | Fundamentals of Data Visualization by Claus O. Wilke | Read the introduction and Chapter 2: "Visualizing data: Mapping data onto aesthetics". Don't worry, they're short chapters! | [Data Visualization Book](https://clauswilke.com/dataviz/) |
 
 Remember to check the MS Teams channel for any additional materials or updates. 
