@@ -3,7 +3,7 @@
 
 ## Overview
 
-In this assignment, you'll delve into the Titanic dataset to explore the relationship between passengers' ages, their survival status, and gender. You'll employ various data visualization techniques, including histograms, pyramid-style plots, and Kernel Density Estimate (KDE) plots, to uncover insights into how these factors influenced survival rates.
+In this assignment, you'll work into the Titanic dataset to explore the relationship between passengers' ages, their survival status, and gender. You'll employ various data visualization techniques, including histograms, pyramid-style plots, and Kernel Density Estimate (KDE) plots, to uncover insights into how these factors influenced survival rates.
 
 ## Objectives
 
